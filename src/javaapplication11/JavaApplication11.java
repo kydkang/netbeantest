@@ -18,7 +18,7 @@ public class JavaApplication11 {
         // TODO code application logic here
         int a1234; 
         int kydkyd;
-        int asasasa;
+        int asasasa;///
     }
     
 }
